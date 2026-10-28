@@ -349,7 +349,6 @@ with st.sidebar:
         "Descriptive Statistics",
         "Data Visualizations",
         "Probability Distributions",
-        "Sampling Analysis & CLT",
         "Hypothesis Testing",
     ]
 
