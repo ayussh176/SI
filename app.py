@@ -351,8 +351,6 @@ with st.sidebar:
         "Probability Distributions",
         "Sampling Analysis & CLT",
         "Hypothesis Testing",
-        "Predictive Modeling (ML)",
-        "Insights & Conclusions",
     ]
 
     selected_section = st.radio(
